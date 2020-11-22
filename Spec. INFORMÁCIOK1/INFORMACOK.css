@@ -1,0 +1,30 @@
+.div {
+height: 150px;
+    width: 150px;
+    clear: both
+}
+
+#one{
+ position: relative;
+top: 0px; left: 0px;    
+    
+}
+
+#two {
+    position: absolute;
+top: 10px; left: 500px; 
+    
+}
+
+#three{
+   position: absolute;
+top: 180px; left: 500px;  
+    
+}
+
+#four{
+  position: absolute;
+top: 380px; left: 500px;   
+    
+    
+}
